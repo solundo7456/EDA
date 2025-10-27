@@ -1,0 +1,7 @@
+📊 Visualization and Seasonal Analysis of Monthly Data
+🧠 Overview
+
+This project explores monthly data visualization and trend analysis using Python.
+It demonstrates how to create pie charts, stacked bar charts, and perform seasonal decomposition to understand both proportions and patterns over time.
+
+The analysis focuses on upper and lower value comparisons for three years — 2022, 2023, and 2024 — to uncover how they vary seasonally and proportionally.
