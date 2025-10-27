@@ -1,0 +1,22 @@
+Visualizations Produced
+🥧 Pie Charts
+
+Example Disease Pie Chart — demonstrates a simple categorical pie visualization.
+
+Proportion of Upper Values by Month (2022) — displays how much each month contributes to the total upper values.
+
+📊 Stacked Bar Chart
+
+Shows upper and lower values stacked together for each year (2022, 2023, 2024).
+
+Allows visual comparison across months and years simultaneously.
+
+🔁 Seasonal Decomposition
+
+Uses seasonal_decompose() from statsmodels to break down the 2022 upper values into:
+
+Trend – the long-term movement of data.
+
+Seasonality – repeating monthly patterns.
+
+Residual – random noise or irregular fluctuations.
