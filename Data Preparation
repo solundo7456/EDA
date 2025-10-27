@@ -1,0 +1,9 @@
+🧹 Data Preparation
+
+Cleaned and standardized dataset columns (Month, 2022_upper, 2022_lower, etc.).
+
+Converted numerical values to floats.
+
+Duplicated data temporarily to simulate two annual cycles for decomposition stability.
+
+Ensured month names are displayed in chronological order on visualizations.
